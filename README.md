@@ -4,3 +4,4 @@ Predict customer purchase using techniques such as:
 - Random Forest
 - Logistic Regression
 - Naive Bayes
+- K-Nearest Neighbor
