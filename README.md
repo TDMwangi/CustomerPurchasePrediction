@@ -5,3 +5,4 @@ Predict customer purchase using techniques such as:
 - Logistic Regression
 - Naive Bayes
 - K-Nearest Neighbor
+- Support Vector Machine
